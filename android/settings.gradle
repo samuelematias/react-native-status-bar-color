@@ -1,0 +1,3 @@
+rootProject.name = 'StatusBarColor'
+
+include ':app'
