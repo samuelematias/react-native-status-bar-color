@@ -33,7 +33,7 @@ On this simple example React Native app i'm show how you'd achieve this in a cro
 
 ### Running it locally
 
-- `git clone https://github.com/samuelmataraso/ModalRoundCorner.git`
+- `git clone https://github.com/samuelmataraso/react-native-status-bar-color.git`
 - `yarn`
 - `react-native link`
 - `react-native run-ios` or `react-native run-android`
