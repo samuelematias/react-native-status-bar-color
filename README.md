@@ -10,7 +10,7 @@
 <br/>
 <!-- show case/gif section -->
 <p align="center">
-    <img alt="React Native App - Android&iOS.png" height="620" src="https://i.imgur.com/bOoIATq" />
+    <img src="https://i.imgur.com/bOoIATq" height="620" />
 </p>
 <!-- show case/gif section END -->
 
