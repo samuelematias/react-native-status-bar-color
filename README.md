@@ -21,7 +21,7 @@
 ## About this app
 
 iOS doesn't have a concept of a status bar bg.<br/>
-On this simple example React Native app i'm show how you'd achieve this in a cross-platform way
+On this simple example React Native app i'm show how you'd achieve this in a cross-platform way.
 
 <br/>
 
