@@ -10,7 +10,7 @@
 <br/>
 <!-- show case/gif section -->
 <p align="center">
-    <img src="https://i.imgur.com/bOoIATq" height="620" />
+    <img src="https://i.imgur.com/bOoIATq.png" height="620" />
 </p>
 <!-- show case/gif section END -->
 
